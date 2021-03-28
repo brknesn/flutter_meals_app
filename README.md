@@ -1,8 +1,4 @@
-# flutter_2
-
-A new Flutter project.
-
-## Getting Started
+# flutter meals app
 
 This project is a starting point for a Flutter application.
 
